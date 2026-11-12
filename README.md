@@ -12,7 +12,7 @@ Evidencia capturada en emuladores Android de teléfono y tablet, ambos en orient
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | ![Listado de Pokémon con nombre e imagen](docs/screenshots/pokemon-list.png) | ![Detalle de Bulbasaur con descripción, tipos y habilidades](docs/screenshots/pokemon-detail.png) | ![Medidas y estadísticas base de Bulbasaur](docs/screenshots/pokemon-stats.png) |
 
-[Ver o descargar el video de demostración](docs/videos/pokedex-demo.mp4). Muestra la navegación al detalle, la consulta de estadísticas, el regreso al listado y el desplazamiento hasta Pokémon de la segunda página, incluido Pikachu.
+https://github.com/user-attachments/assets/78e84ad4-7f28-489c-9b14-db21d82e00d2
 
 ### Tablet Android: Pixel Tablet en vertical
 
@@ -22,7 +22,9 @@ Las capturas de 1600 × 2560 muestran cómo el listado y las secciones de inform
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | ![Listado responsive en Pixel Tablet en vertical](docs/screenshots/tablet-list.png) | ![Detalle de Bulbasaur y estadísticas en Pixel Tablet en vertical](docs/screenshots/tablet-detail.png) |
 
-[Ver o descargar el video de la tablet en vertical](docs/videos/pokedex-tablet-demo.mp4). Muestra la navegación al detalle y el desplazamiento por el listado en una pantalla de mayor tamaño.
+https://github.com/user-attachments/assets/a6241508-1df7-4693-8082-333873bfaca6
+
+
 
 ## Requisitos
 
